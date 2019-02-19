@@ -1,3 +1,17 @@
 # electron game experiment
 
-Had a bit of a rage quit with a react project so decided to create a desktop react game. Works pretty well for an experiment
+Small game experiment with electron
+
+### Installation
+
+```bash
+$ yarn
+```
+
+> Make sure electron is installed globally
+
+### Running
+
+```bash
+$ yarn electron
+```

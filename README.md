@@ -2,6 +2,8 @@
 
 Small game experiment with electron
 
+![](example.png)
+
 ### Installation
 
 ```bash
